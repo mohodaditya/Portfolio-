@@ -5,3 +5,7 @@ this prortfolio website is going to be my introduction tech stack and project ba
 
 #--
 this web is building from an no code websites
+
+# Log 12feb
+
+creating this project by using framer
