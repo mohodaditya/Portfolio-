@@ -9,3 +9,7 @@ this web is building from an no code websites
 # Log 12feb
 
 creating this project by using framer
+
+# Log 17feb
+
+it should has delayed due to lack of project 
